@@ -9,7 +9,7 @@ function Header(props){
             </div>
             <div className='nav-bar-links'>
                 <Link to='/products'>Product</Link>
-                <Link to='/wall'>Wall of Memes</Link>
+                <Link to='/wall-of-memes'>Wall of Memes</Link>
                 <Link to='/favorites'>Favorites</Link>
                 <Link to='/contact-us'>Contact Us</Link>
             </div>
